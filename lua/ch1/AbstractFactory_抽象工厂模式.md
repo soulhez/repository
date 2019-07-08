@@ -6,7 +6,7 @@
 
 这个过程的类图如下:
 
-![AbstractFactory UML](../ch1/AbstractFactory/AbstractFactory_uml.jpg)
+![AbstractFactory UML](../ch1/AbstractFactory/uml.jpg)
 
 ### 2. 代码：
 
